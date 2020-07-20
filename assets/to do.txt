@@ -1,0 +1,39 @@
+-Plug landing page everywhere!
+-Remove spacebar feature
+-Plan out the rest of the story
+-Record voice overs
+-Add sound effects to final cutscene
+-Remove backspace cheat
+-Remove command prompt
+
+
+Save files:
+fullscreenFlag
+globalVolume
+helpText
+day
+levelCount
+intelLevel
+warEffort
+freeplayUnlocked
+perfectGame
+codesBroken
+startingOp
+bodyguardSuccess
+pointblankComplete
+winningCheck
+currentIntel x10
+
+
+Achievements:
+1. Welcome to Bletchley		Solve first code
+2. Enigma buster		Solve first difficult code
+3. Your country needs you	Earn first blip on war effort screen
+4. Keep buggering on		Fill half the war effort screen
+5. Alternate history 		Lose the war
+6. V for victory	 	Win the war
+7. Ultra intelligence 		Play a perfect game (all difficult levels, no extra bulbs, fill the war effort meter)
+8. Amateur codebreaker		Solve 5 codes in a game
+9. Testery graduate		Solve 10 codes in a game
+10. Professional cryptographer	Solve 15 codes in a game
+11. The thinking machine	Solve all 20 codes in a game

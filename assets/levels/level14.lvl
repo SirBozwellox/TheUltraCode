@@ -1,0 +1,25 @@
+Pike
+The current set up seems to only accept codewords that contain no consecutive 1s and 0s.
+4
+1500
+Tests
+0#a
+1#a
+00#r
+11#r
+10#a
+01#a
+010#a
+101#a
+110#r
+001#r
+011#r
+101011#r
+101010#a
+0101010#a
+01010101#a
+10101#a
+101010#a
+00110011#r
+10101011#r
+01010100#r

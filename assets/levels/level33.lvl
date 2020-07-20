@@ -1,0 +1,25 @@
+Ultra
+The current settings only accept codewords that start with a 1, don't contain more than four consecutive 1s and where every set of 1s is followed by the exact same number of 0s.
+10
+4500
+Tests
+10110010#a
+10#a
+1100#a
+111000#a
+11110000#a
+1010111100001100#a
+11001110001010#a
+11100010101100#a
+1011001011110000#a
+1111000010111000#a
+1111100000#r
+100#r
+110#r
+111001010#r
+1100101110#r
+1010101#r
+01010#r
+00#r
+0#r
+0000011111#r

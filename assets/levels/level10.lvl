@@ -1,0 +1,25 @@
+Utah
+The current machine setup only accepts codewords that contain the subword 001 at least once.
+4
+1000
+Tests
+0000100#a
+001#a
+100#r
+111011#r
+001111001#a
+000000#r
+11101001#a
+1001#a
+11010101#r
+111111#r
+10011#a
+000001#a
+01#r
+11001#a
+11#r
+01010101#r
+010101001#a
+001001001#a
+110000#r
+101001#a

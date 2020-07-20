@@ -1,0 +1,25 @@
+Backfire
+The current settings only allow codewords that have no consecutive 1s or 0s and where the length is a multiple of four.
+10
+4500
+Tests
+0101#a
+1010#a
+01010101#a
+10101010#a
+010101010101#a
+101010101010#a
+0101#a
+1010#a
+10#r
+01#r
+101#r
+010#r
+101010#r
+010101#r
+1010101#r
+0101010#r
+1100#r
+0100#r
+1011#r
+01011#r

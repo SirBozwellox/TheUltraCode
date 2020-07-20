@@ -1,0 +1,25 @@
+Mascot
+The current machine setup only accepts codewords that are exactly one digit long. Codewords that are two or more digits long should be rejected.
+3
+800
+Tests
+1#a
+0#a
+1#a
+0#a
+1#a
+0#a
+11#r
+00#r
+10#r
+01#r
+111#r
+000#r
+10101#r
+00010#r
+100#r
+0001#r
+0101010#r
+111111#r
+000000#r
+100110#r

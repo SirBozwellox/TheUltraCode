@@ -1,0 +1,18 @@
+letter_2.mp3
+Dated March 1942
+
+Dear Mr. Taylor,
+
+>3
+Good work on decoding that last message. We're impressed with your work so far and it's been awfully nice having you onboard. I see you're becoming familiar with the equipment we have here at Bletchley. We've certainly come a long way since we first received that antiquated Enigma set from the Poles back in Kabaty Woods.
+
+The machines you are working with, what we call the Bombes, were the brainchild of myself and Professor Welchman. Since we developed them a few years ago we have, of course, been able to crack German codes, but we have not yet been able to keep up with the frequency with which they change the rotor settings of their Enigma machines.
+
+Fortunately, with the recent influx of new staff, such as yourself, our work seems to be progressing nicely. We are going to need every advantage we can get in the coming years, so remember; your contribution is critical.
+
+I look forward to seeing how your work progresses.
+
+>0
+Regards, Professor Turing (Alan)
+
+P.S. Myself and Hugh Alexander are organising something of a chess tourney in Hut 2 this evening. Feel free to come along.

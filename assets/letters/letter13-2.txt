@@ -1,0 +1,14 @@
+letter_13-2.mp3
+Dated October 1943
+
+Dear Mr. Taylor,
+
+>3
+I am pleased to make your acquaintance. Seeing as I would benefit from your expertise, Travis has given me the go ahead to assume today's communications with you.
+
+I should very much like to meet with you to discuss Mr. Flowers' plans for a new counting machine. While the designs are for the most part sound, I can't help but feel that his insistence on using over two thousand thermionic valves for the machine is questionable, not least because the expectation that such a large number of very fragile parts can reliably work together is to my mind optimistic. However, while my first inclination is to persist with the Heath Robinsons despite their issues, second, third and nth options are required and I should like to see if you cannot convince me to endorse Flowers' design.
+
+I hope to see you soon. In the meantime, I've been informed that your presence is requested in the Operations Room to be briefed on 'Operation Gambit', so get to it.
+
+>0
+Mr. Max Newman

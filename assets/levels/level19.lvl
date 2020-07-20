@@ -1,0 +1,25 @@
+Sword
+Today's machine settings only accept codewords that are all 0s followed by a single 1 or all 1s followed by a single 0, all other codewords are rejected.
+5
+1500
+Tests
+01#a
+001#a
+0001#a
+00001#a
+10#a
+110#a
+1110#a
+11110#a
+0010#r
+11101#r
+1011110#r
+0000101#r
+101010#r
+010101#r
+11111#r
+00000#r
+1111#r
+0000#r
+1010#r
+1111101#r

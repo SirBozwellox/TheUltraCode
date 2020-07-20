@@ -1,0 +1,25 @@
+Lucid
+Today's settings only accept codewords that start with a 1, the following digits can be either 1 or 0.
+2
+800
+Tests
+10#a
+01#r
+11#a
+00#r
+01001#r
+10000#a
+111#a
+10011#a
+011111#r
+010001#r
+1001001#a
+11110#a
+10001001#a
+000001#r
+0100001#r
+100#a
+1111#a
+1111101#a
+01111111#r
+010#r

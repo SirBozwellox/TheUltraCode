@@ -1,0 +1,14 @@
+letter_16-1.mp3
+Dated January 1944
+
+Dear Mr. Taylor,
+
+>3
+I would like to commend you for your efforts so far, it seems we are starting to turn this war around at last. The intel you've gathered has been vital in keeping our boys on the front line alive.
+
+But your work isn't over yet, Military Intelligence has called on us to gather intelligence for another crucial operation. 'Operation Neptune', as they have dubbed it, will plan for the paradropping of troops behind enemy lines to target German radar stations ahead of any amphibious or land assault we might mount. Hence, it will be crucial for us to ascertain the locations of said stations, as well as any other essential information of the sort.
+
+If we want to press our advantage on the Germans, success here will be paramount. You know the score. Get to the briefing room, and then get down to decoding.
+
+>0
+Commander E. W. H. Travis

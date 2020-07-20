@@ -1,0 +1,18 @@
+letter_3-2.mp3
+Dated May 1942
+
+Dear Mr. Taylor,
+
+>3
+As you may be aware we've been recently contacted by Military Intelligence with regards to upcoming plans for an invasion of mainland Europe.
+
+Military HQ wishes to delay efforts to strike in Europe for a few more years still, given that we have yet to assemble a sufficiently large fighting force for such an invasion. However, the Americans and Russians have both been pushing for us to open up a new front against the Germans as soon as possible, and though current plans may be anticipatory at best, it can never hurt to be prepared.
+
+From here on in, the codebreakers here at Bletchley Park have been instructed to contribute any relevant intelligence that they can gather towards the planning of our strike against mainland Europe. As part of this initiative, we are assigning you to intelligence research on 'Operation Sledgehammer'.
+
+Your presence will shortly be requested in the Operations Room, there you can find out more about the plans in question.
+
+We have also received a coded message that we believe may contain information concerning the positioning of German forces on the continent. After the briefing I'd like yourself and Hugh to get to work on decrypting it.
+
+>0
+Regards, Alan

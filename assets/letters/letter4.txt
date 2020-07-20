@@ -1,0 +1,16 @@
+letter_4.mp3
+Dated July 1942
+
+Dear William,
+
+>3
+We've received further contact from MI5 with regards to the upcoming invasion plans. Under the title of 'Operation Fortitude', they are currently constructing plans to prevent the Germans from successfully anticipating the exact location of our invasion efforts.
+
+Any intelligence that we can contribute towards these efforts will be essential, particularly if we can determine what the Germans expect us to do. Information on how many troops they believe we have, when and where they expect us to attack, and their assessment of our Combined Arms capabilities will be especially relevant.
+
+Also, our current pre-emptory plans to invade mainland Europe are now under-discussion at the Claridge Conference. As to what this means for our overall war strategy from now on, your guess is as good as mine. Regardless, any information that you can accumulate now may still be crucial for our efforts.
+
+On that note, we also have another message for you to get to work on. Get to it once you have been briefed in the Operations Room. As ever, good luck.
+
+>0
+Regards, Alan

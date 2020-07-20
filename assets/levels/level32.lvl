@@ -1,0 +1,25 @@
+Aphrodite
+Today's settings only accept codewords that don't contain four or more consecutive 1s.
+6
+4500
+Tests
+111#a
+010111011#a
+1100110001#a
+0101001#a
+000#a
+11#a
+100011#a
+1111#r
+0100101111#r
+011110011#r
+0111011100#a
+010111101#r
+101010#a
+1#a
+011110111#r
+111001111#r
+01010111#a
+00#a
+00010011#a
+00001#a

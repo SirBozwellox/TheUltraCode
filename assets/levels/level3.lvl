@@ -1,0 +1,25 @@
+Foxchase
+Today's settings only accept codewords that contain at least a single 1.
+2
+0
+Tests
+0000#r
+1000#a
+0010#a
+0111#a
+1111#a
+000#r
+00000#r
+000000#r
+111110#a
+100001#a
+001000#a
+00#r
+1111111#a
+010101#a
+100110#a
+11111#a
+0000#r
+1101111#a
+111011#a
+0010000#a

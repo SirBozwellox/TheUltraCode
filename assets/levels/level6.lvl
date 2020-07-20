@@ -1,0 +1,25 @@
+Gold
+Today's codewords must have an odd number of 1s and absolutely no 0s.
+3
+400
+Tests
+1#a
+111#a
+11111#a
+1111111#a
+111111111#a
+11#r
+1111#r
+111111#r
+0#r
+000#r
+00000#r
+0111001#r
+111101#r
+100001#r
+11111110#r
+0111#r
+0101#r
+01100110#r
+01010101#r
+10111#r

@@ -1,0 +1,25 @@
+Sunrise
+Today's settings only accept codewords that start with a 1 and have no consecutive 1s or 0s.
+4
+1000
+Tests
+10#a
+101#a
+101010#a
+1010101#a
+1010101010#a
+010101#r
+0101#r
+0101011#r
+011100#r
+01#r
+001100#r
+1010100#r
+101011#r
+111011#r
+01010011#r
+10101001#r
+111#r
+000#r
+1#a
+01010101#r

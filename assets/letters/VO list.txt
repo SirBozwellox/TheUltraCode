@@ -1,0 +1,41 @@
+Day - Character - # of letters
+1 - Travis - 1
+2 - Turing - 1
+3 - Turing - 2
+4 - Turing - 1
+5 - Turing - 1
+6 - Hugh - 4
+7 - Travis - 2
+8 - Hugh - 3
+9 - Travis - 2
+10 - Turing - 2
+11 - Hugh - 2
+12 - Hugh - 8
+13 - Newman - 2
+14 - Turing - 3
+15 - Hugh - 2
+16 - Travis - 4
+17 - Hugh - 6
+18 - Turing - 4
+19 - Turing - 4
+20 - Travis - 4
+
+Travis - 5 days, 13 letters
+Turing - 8 days, 18 letters
+Hugh - 6 days, 25 letters
+Newman - 1 day, 2 letters
+58 letters total
+
+Extra:
+Freddie Morgan - 8 operations, opening cut scene, 3 ending cut scenes
+Turing - 2 tutorial sections, 3 success chants, 3 failure chants
+Hugh - 1 tutorial section, 3 success chants, 3 failure chants
+Travis - 3 success chants, 3 failure chants
+
+Characters:
+Commander Edward Travis - Alex Webber-Date
+Alan Turing - David Nagaj
+Hugh Alexander - Cameron Steen
+Max Newman - Hannah Kelly
+Lt. Gen. Freddie Morgan - Fergus O'Sullivan
+Narrator - Jack Gloyens

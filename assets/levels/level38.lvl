@@ -1,0 +1,25 @@
+Lorenz
+Today's settings only accept codewords that contain the subword 0110 exactly once.
+9
+4500
+Tests
+0110#a
+1100110011#a
+0010011001#a
+10001100#a
+0000110#a
+100110#a
+000110#a
+101010#r
+011#r
+1001#r
+01100110#r
+01100011001#r
+1100110110#a
+0110110#a
+11001#r
+001010#r
+10011#r
+01100000#a
+000011#r
+01100111110#a

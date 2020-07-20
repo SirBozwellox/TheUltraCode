@@ -1,0 +1,25 @@
+Crimson
+Today's machine settings only accept four digit codewords that contain exactly two 1s and two 0s but in any order.
+10
+2500
+Tests
+0011#a
+1010#a
+0101#a
+1100#a
+001#r
+110#r
+010#r
+101#r
+00111#r
+00110#r
+1011#r
+0100#r
+1111#r
+0000#r
+01010#r
+10101#r
+1110#r
+0001#r
+101010#r
+0100001#r

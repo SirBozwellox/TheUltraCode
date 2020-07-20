@@ -1,0 +1,14 @@
+letter_19-3.mp3
+Dated April 1944
+
+Dear William,
+
+>3
+Despite our falling behind on our decryption efforts, we still have been able to assemble enough information to ensure at least decent odds for the upcoming invasion.
+
+Though at this juncture we have no way to tell how things will pan out for us, and I fear we have much to do beyond the Normandy landings, this certainly marks cause for celebration.
+
+But before that, get to the Operations Room for debriefing. All in all, you've done a fantastic job, William. Enjoy some respite.
+
+>0
+Regards, Alan

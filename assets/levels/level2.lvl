@@ -1,0 +1,25 @@
+Deadlight
+Today's settings only accept codewords that end with 1, the preceding digits can be either 1 or 0.
+2
+0
+Tests
+00#r
+01#a
+11#a
+10#r
+001#a
+101#a
+000#r
+110#r
+010#r
+011#a
+111#a
+0000#r
+0001#a
+1011#a
+1010#r
+0011#a
+1111#a
+11110#r
+00101#a
+11101#a

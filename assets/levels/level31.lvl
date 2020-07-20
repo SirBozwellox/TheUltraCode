@@ -1,0 +1,25 @@
+Manhattan
+Today's settings only accept codewords that contain exactly one 0 and don't have four or more consecutive 1s.
+9
+4500
+Tests
+101#a
+1011#a
+1101#a
+1110#a
+10111#a
+01#a
+0111#a
+01111#r
+111101#r
+11101#a
+1110111#a
+11101111#r
+1010#r
+010#r
+00#r
+1110110#r
+010101#r
+111#r
+11#r
+0#a

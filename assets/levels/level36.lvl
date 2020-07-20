@@ -1,0 +1,25 @@
+Menace
+Today's settings only accept codewords that start with a 1 and are exactly four digits long.
+6
+4500
+Tests
+1010#a
+1111#a
+1000#a
+1101#a
+1110#a
+1001#a
+1100#a
+1011#a
+10101#r
+0101#r
+0000#r
+101#r
+11#r
+0111#r
+100#r
+10111#r
+1001011#r
+111#r
+11011#r
+1#r

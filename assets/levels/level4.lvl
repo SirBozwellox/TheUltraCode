@@ -1,0 +1,25 @@
+Teardrop
+Today's settings only accept codewords made up entirely of 1s, codewords that contain any 0s should be rejected.
+3
+600
+Tests
+1#a
+11#a
+111#a
+1111#a
+11111#a
+0#r
+00#r
+000#r
+10010#r
+1110#r
+00001#r
+100101#r
+010101#r
+01111#r
+100000#r
+0100011#r
+010111#r
+1011111#r
+110111#r
+001001#r

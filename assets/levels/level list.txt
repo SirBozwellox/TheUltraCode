@@ -1,0 +1,135 @@
+Base =
+3	Lucid
+2	Deadlight
+1	Foxchase
+4	Teardrop
+5	Mascot
+6	Gold
+
+15	Omaha
+7	Jupiter
+8	Sunrise
+13	Gauntlet
+
+10	Utah
+14	Pike
+20	Claymore
+12	Carthage
+
+36	Menace
+17	Alphabet
+21	Dynamo
+18	Meridian
+
+19	Sword
+16	Zigzag
+11	Oklahoma
+25	Paperclip
+
+24	Juno
+35	Banquet
+26	Mincemeat
+27	Piper
+
+29	Jubilee
+28	Sabre
+30	Backfire
+31	Manhattan
+
+32	Aphrodite
+38	Enigma
+33	Ultra
+22	Crimson
+
+
+Easy	Hard
+15	8
+7	13
+10	20
+14	12
+36	21
+17	18
+19	11
+16	25
+24	26
+35	27
+29	30
+28	31
+32	22
+38	33
+
+
+
+Difficult
+14
+18
+17
+11
+24
+26
+30
+35
+27
+31
+38
+28
+22
+33
+
+Easy
+8
+15
+13
+36
+7
+21
+10
+12
+20
+19
+16
+29
+25
+32
+
+
+
+1. Start with 1
+2. End with 1
+3. Contain at least a single 1
+4. All 1s
+5. Exactly 1 digit long
+
+6. No 0s and odd number of 1s
+7. Begin and end with 1
+8. Start with 1 and no consecutive 1s and 0s
+9. -
+10. Contains 001
+11. Even number of just 0s followed by even number of just 1s
+12. Even number of just 0s or even number of just 1s
+13. All 1s or All 0s
+14. No consecutive 1s or 0s
+15. All 1s followed by all 0s
+16. Start with two 0s and end with two 1s
+17. Single 1 followed by even 0s or two 1s followed by odd 0s
+18. Every 0 is followed by three 1s
+19. All 0s followed by single 1 or all 1s followed by single 0
+20. Start and end with 1 and contain only 0s
+21. Contain at least four 1s
+22. 4 digits with exactly two 1s and two 0s
+23. -
+24. Odd number of 1s and 0s
+25. 3 or more digits and start with 10 or 01
+26. Even digits end in 0, odd digits ends in 1
+27. Fewer than four 1s ends in 1, otherwise ends in 0
+28. 3 digits or less and have exactly 1 more 1 than 0s
+29. Total number of 1s is multiple of 4
+30. No consecutive 1s and 0s and multiple of 4
+31. Exactly one 0 and no more than three consecutive 1s
+32. Don't contain more than three consecutive 1s
+33. Start with 1, no more than three consecutive 1s, every set of 1s followed by same number of 0s
+34. Non consecutive pairs of 1s and 0s.
+35. Single 1 is followed by at least two 0s, two 1s followed by at least a single 1, three more 1s rejected
+36. Start with 1 and exactly 4 digits long
+37. -
+38. Contain the subword 0110 only once

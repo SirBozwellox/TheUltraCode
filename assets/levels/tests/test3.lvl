@@ -1,0 +1,24 @@
+The current set up seems to only accept codewords that begin and end with 1, the middle numbers can be anything.
+4
+1200
+Tests
+11#a
+10#r
+01#r
+1111#a
+1001#a
+1010#r
+0101#r
+0100#r
+10101#a
+110001#a
+000001#r
+100111#a
+1010011#a
+100111001#a
+100100#r
+01100010#r
+1111111#a
+110010010#r
+10001101#a
+00001100#r

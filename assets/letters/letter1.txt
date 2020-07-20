@@ -1,0 +1,18 @@
+letter_1.mp3
+Dated March 1942
+
+Dear Mr. Taylor,
+
+>3
+I would like to welcome you here at Bletchley Park on behalf of all the staff. Since taking over from Commander Denniston earlier this year, I have had the good fortune to oversee some great changes which I hope will allow us to make an outstanding contribution to the war effort. With the generous backing of Prime Minister Churchill, we have been able to bring in many new staff members to work on decrypting German intelligence.
+
+We have been observing your previous engineering work at Dollis Hill closely, and believe that you show much potential. We are bringing you in as a code-breaker where you will be working along side Professor Turing in Hut 8.
+
+Your job is to help crack the German Enigma code. You shall do this by running intercepted messages through our Bombe machines and altering the plug-board settings until they decrypt correctly. Enigma isn't like an ordinary code though, it can't just be broken once. The rotor settings on the German Enigma machines will change for each message and so you'll have to work out the correct settings for each individual message. Before getting to work you'll be provided with a 'crib' by Mr. Milner-Barry. These will provide you with relevant criteria that the plug-board settings on the Bombes must reflect.
+
+Professor Turing is waiting for you in Hut 8, he'll get you started.
+
+Good luck, Mr Taylor.
+
+>0
+Commander E. W. H. Travis

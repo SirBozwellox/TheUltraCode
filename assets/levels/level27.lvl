@@ -1,0 +1,25 @@
+Piper
+If a codeword contains fewer than four 1s then it should end in a 1, otherwise it should end in 0, all other codewords are rejected.
+10
+3000
+Tests
+1#a
+11#a
+0011#a
+00101#a
+01011#a
+111010#a
+11110#a
+000100101#a
+01100001110#a
+1010101#r
+1111#r
+1110#r
+00#r
+10#r
+0101010#r
+000010#r
+00010001#a
+101010101#r
+1111110#a
+11101#r

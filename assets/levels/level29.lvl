@@ -1,0 +1,25 @@
+Jubilee
+The current settings only allow codewords where the total number of 1s is a multiple of four.
+5
+3500
+Tests
+1111#a
+1010110#a
+00110101#a
+10100010001#a
+01010101#a
+10101010#a
+000110000101#a
+0000#a
+111#r
+0100001100#r
+1010100#r
+010101#r
+010101010#a
+01110#r
+11#r
+000100#r
+101000#r
+000#a
+11000001#r
+01#r

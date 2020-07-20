@@ -1,0 +1,25 @@
+Omaha
+The current setup seems to only accept codewords where a 0 never precedes a 1 and thus a 1 never comes after a 0.
+4
+1000
+Tests
+1#a
+11#a
+10#a
+0#a
+110000#a
+11110#a
+00#a
+1000#a
+100#a
+110#a
+01#r
+0100#r
+00001#r
+011#r
+1000001#r
+101000#r
+000010#r
+010#r
+111101#r
+10101#r

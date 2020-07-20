@@ -1,0 +1,30 @@
+Characters:
+William Taylor (player character)
+Commander Denniston
+Alan Turing
+Hugh Alexander
+John Cairncross (soviet spy)
+Churchill - action this day, make sure they get what they want
+
+Effects:
+-Having the option of which code to break each day (can unlock all puzzles after completing the story)
+-Earning less/more intel for each code broken
+-Axis gaining more power in the war effort
+-Getting different letters, branching storyline
+
+Events:
+-Getting the 'action this day' letter from Churchill
+-Sinking of the HMS Carlisle
+-Tricking the Axis for the Normandy landings
+
+Maybe cutscenes for each operation on their starting day, possibly narrated by Bernard Montgomery or James Martin Stagg. Similar to mission intros in CoD1
+
+Possible operations:
+-Overlord = Allied invasion and liberation of Europe
+-Neptune = The actual Normandy landings
+-Bodyguard = Overall allied deception strategy
+-Fortitude = Deception to make the Axis think the Allies were invading from Calais by using fake armies
+-Pointblank = Allied bombing run to cripple the axis airforce
+-Gambit = Submarine operation to inform the landing craft of their positions relative to the beaches
+-Tiger = Failed D-Day rehearsal which resulted in multiple Allied casualties (higher reward)
+-Roundup and Sledgehammer = intial plans discarded before D-Day

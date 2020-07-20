@@ -1,0 +1,25 @@
+Sabre
+Today's settings only accept codewords that are three digits or less and have exactly one more 1 than 0s.
+7
+3500
+Tests
+1#a
+110#a
+101#a
+011#a
+100#r
+01#r
+0#r
+10#r
+000#r
+11100#r
+01011#r
+10110#r
+010#r
+1111#r
+0000#r
+111#r
+0001#r
+1001#r
+0101#r
+1010#r

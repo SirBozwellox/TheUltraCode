@@ -1,0 +1,25 @@
+Alphabet
+If a codeword starts with a single 1 then it must be followed by an even number of 0s, if it starts with two 1s then it must be followed by an odd number of 0s, all other codewords are rejected. Remember that zero is an even number.
+5
+2000
+Tests
+100#a
+1#a
+10000#a
+1000000#a
+110#a
+11000#a
+1100000#a
+110000000#a
+10#r
+1000#r
+0#r
+010000#r
+011000#r
+1001#r
+10001#r
+110001#r
+0000#r
+01#r
+110000#r
+10#r

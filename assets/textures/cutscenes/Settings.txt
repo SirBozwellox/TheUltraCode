@@ -1,0 +1,11 @@
+For images:
+-Black and white
+-Soften portrait
+	2
+	2
+	20
+
+For scratches:
+Resize to 1280x464
+Invert colours
+Alpha = 120

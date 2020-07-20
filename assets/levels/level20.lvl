@@ -1,0 +1,25 @@
+Claymore
+Today's machine settings only accept codewords that start and end with 1 and otherwise contain only 0s.
+4
+1500
+Tests
+11#a
+101#a
+1001#a
+10001#a
+100001#a
+1000001#a
+10000001#a
+10#r
+100#r
+01#r
+001#r
+1011#r
+1101#r
+10101#r
+111#r
+1111#r
+111101#r
+1010#r
+01010#r
+010101#r

@@ -1,0 +1,25 @@
+Dynamo
+Today's machine settings only accept codewords that contain at least four 1s.
+5
+1800
+Tests
+1111#a
+111111#a
+10010100011#a
+11101#a
+1000100101#a
+0010010101#a
+01010100001#a
+010111011#a
+000000#r
+0101100#r
+111#r
+0000111000#r
+0101000#r
+0101#r
+0011001#r
+1000010001#r
+000#r
+11#r
+1#r
+0100110#r

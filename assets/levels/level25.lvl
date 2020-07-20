@@ -1,0 +1,25 @@
+Paperclip
+Today's machine settings only accepts codewords that are three or more digits long and start with either 10 or 01, the trailing digits can be anything.
+6
+2500
+Tests
+101#a
+010#a
+100#a
+011#a
+1000000#a
+010011#a
+01000#a
+01110#a
+1011#a
+01#r
+10#r
+110001#r
+001101#r
+000#r
+111#r
+0101#a
+1010#a
+010000#a
+10100101#a
+010111#a

@@ -1,0 +1,18 @@
+letter_5.mp3
+Dated September 1942
+
+Dear William,
+
+>3
+I hope that you have managed to settle in here alright, especially given the recent heavy influx of work.
+
+Unfortunately my presence has been requested in America. They have asked me to aid with their intelligence and code-breaking efforts. I cannot say I expect much, but duty calls. Until I return, you will be passing over to correspondence with Hugh Alexander who I believe you've worked with before. I dare say over the coming months the responsibility for running Hut 8 will also pass to him, but, I assure you, you are in safe hands.
+
+We have intercepted another important German message which will require your attention today. This one is from High Command, and though we are unsure of its exact contents at present, it has been encrypted with a new cipher that the folks here are affectionately calling 'Tunny'.
+
+While at present HQ seems to favour starting with the invasion of Africa, the contents of this message it is sure to provide vital information that we can use to propel our war effort. Even though we will now also be contributing intelligence to do with Africa to HQ, your assignment remains the same.
+
+>0
+Regards, Alan
+
+P. S. My mug seems to have gone missing, I don't suppose you've seen it anywhere?

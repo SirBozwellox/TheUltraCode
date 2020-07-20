@@ -1,0 +1,14 @@
+letter_14-3.mp3
+Dated November 1943
+
+Dear William,
+
+>3
+I have an update of some importance. In February the Germans introduced a new, more advanced, rotor stream cipher machine, for which our current code-breaking methods have proven a somewhat inadequate match. Fortunately, there have recently been some developments in working out the cam settings of the wheels of these 'Tunny' machines, which should soon increase the volume of information we can crack.
+
+Some bad news though, our bombing campaign in Germany has produced insufficient results at the expense of, at this point, too many of our aircraft to remain sustainable on its current scale. Your presence is now required for another important operation which I hope will prove more successful. 'Gambit', as it has been dubbed, pertains to uncovering German submarine operations in the channel. We'll fill you in more at the briefing.
+
+>0
+Regards, Alan
+
+P.S. I don't suppose you have a spare bike chain I can borrow? Mine keeps breaking.

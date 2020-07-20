@@ -1,0 +1,25 @@
+Juno
+Today's machine settings only accepts codewords that have an odd number of 1s and an odd number of 0s.
+4
+1500
+Tests
+0#r
+1#r
+000#r
+111#r
+0100#a
+000111#a
+101010#a
+0011001101#a
+1000011101#a
+110#r
+010#r
+1100#r
+1010#r
+0101#r
+0000011#r
+11100#r
+1110#a
+00000111#a
+01010#r
+10101#r

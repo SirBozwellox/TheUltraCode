@@ -1,0 +1,24 @@
+The current settings only accept codewords that are made up of non consecutive pairs of 1s and 0s.
+6
+4500
+Tests
+11#a
+00#a
+1100#a
+0011#a
+110011#a
+001100#a
+11001100#a
+00110011#a
+1010#r
+0101#r
+101#r
+010#r
+1100111#r
+000#r
+111#r
+101#r
+010#r
+0011000#r
+1101#r
+1111#r

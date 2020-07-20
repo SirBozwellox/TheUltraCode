@@ -1,0 +1,25 @@
+Carthage
+Today's settings only accept codewords that are composed entirely of an even number of 1s or an even number of 0s but not a mix of 1s and 0s.
+6
+1500
+Tests
+00#a
+11#a
+0000#a
+1111#a
+000000#a
+111111#a
+00000000#a
+11111111#a
+0#r
+000#r
+00000#r
+1#r
+111#r
+11111#r
+01#r
+10#r
+1001#r
+0101#r
+11110#r
+0000001#r

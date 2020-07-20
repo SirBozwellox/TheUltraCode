@@ -1,0 +1,25 @@
+Meridian
+Today's settings only accept codewords where every 0 is followed by at least three consecutive 1s.
+6
+1800
+Tests
+0111#a
+01111011111#a
+1#a
+11#a
+11101111#a
+01110111#a
+00#r
+000#r
+10#r
+10110#r
+0111011#r
+011100#r
+0111010#r
+111111#a
+1111101#r
+111011#r
+1110111#a
+0000#r
+1000#r
+111000#r

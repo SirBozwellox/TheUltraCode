@@ -1,0 +1,25 @@
+Oklahoma
+Todays settings only accept codewords that have an even number of 0s followed by an even number of 1s. Remember zero is an even number so 00 and 11 are valid.
+6
+1500
+Tests
+0011#a
+000011#a
+00000011#a
+0000000011#a
+001111#a
+00001111#a
+0000001111#a
+00101#r
+00001100#r
+00011#r
+0000011111#r
+000011111#r
+01#r
+001#r
+011#r
+1100#r
+1111000000#r
+0101#r
+111111#a
+000#r

@@ -1,0 +1,25 @@
+Banquet
+Today's settings only accept codewords where a single 1 is followed by at least two 0s, two 1s are followed by at least a single 0 and codewords with anymore than two consecutive 1s are rejected.
+5
+4500
+Tests
+00#a
+0100#a
+110#a
+100#a
+1100#a
+100110100#a
+10110100#r
+000#a
+110110#a
+01100#a
+00011#r
+1#r
+1010#r
+110100#a
+0001110#r
+111#r
+00110#a
+1010101#r
+11010000#a
+0001100010#r

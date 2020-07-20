@@ -1,0 +1,25 @@
+Mincemeat
+If a codeword has an even number of digits then it must end in a 0, if it has an odd number of digits then it should end in a 1. All other codewords are rejected.
+4
+2500
+Tests
+00#a
+1#a
+0100#a
+1110#a
+111#a
+011#a
+001#a
+000001#r
+111111#r
+0000#a
+10#a
+11#r
+0#r
+000#r
+010#r
+1111#r
+1001#r
+0101#r
+10100#r
+11110#r

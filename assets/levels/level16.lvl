@@ -1,0 +1,25 @@
+Zigzag
+The current settings only accept codewords that start with two 0s and end with two 1s, the middle digits can be anything.
+6
+1500
+Tests
+0011#a
+000011#a
+001111#a
+00011#a
+00111#a
+00101011#a
+000101111#a
+00#r
+11#r
+1100#r
+01#r
+001#r
+011#r
+00001#r
+01111#r
+110011#r
+11010100#r
+1010101#r
+01010#r
+10001#r

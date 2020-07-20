@@ -1,0 +1,16 @@
+letter_7-1.mp3
+Dated January 1943
+
+Dear Mr. Taylor,
+
+>3
+Given the recent increase in 'Tunny Traffic', we've been collaborating with the boffins at Dollis Hill to construct a new set of machines capable of deciphering these messages. Mr. Newman and Mr. Morrell have been very successful so far in the creation of a machine that our staff have dubbed the 'Heath Robinson'. With increased decryption capability, the range of messages that will be available for you to work on has increased.
+
+You may now choose to either decrypt standard Enigma messages or the more difficult 'Tunny Traffic'. Remember that though Enigma may be easier to decrypt, it is more likely that messages in 'Tunny' will contain useful information. You may however decide that the difficulty of decrypting 'Tunny' makes devoting your time to it too risky, in which case, any intelligence would be preferable to none.
+
+I'd also like to congratulate you on your contributions to 'Operation Fortitude'. With the information you have provided to our boys at MI5, efforts to deceive the Germans are now under way.
+
+In the meantime, your help has been requested on 'Operation Bodyguard'. You will be required to find out anything you can regarding how successful our deception strategies are. Head down to the Operations Room for your briefing, and then get to work decrypting today's messages.
+
+>0
+Commander E. W. H. Travis
